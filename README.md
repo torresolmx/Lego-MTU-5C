@@ -8,4 +8,4 @@ The dimensions of this Lego model are as close as the brick dimension units allo
 
 Thank you to Arthur Torres for helping with suggestions to improve the build instructions.
 
-![Image]media/MTU-5C.png
+![Image](media/MTU-5C.png)
