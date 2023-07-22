@@ -7,3 +7,5 @@ So here it is! By following the instructions in this repository, you can build y
 The dimensions of this Lego model are as close as the brick dimension units allow.
 
 Thank you to Arthur Torres for helping with suggestions to improve the build instructions.
+
+![Image]media/MTU-5C.png
