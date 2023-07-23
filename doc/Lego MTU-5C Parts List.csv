@@ -1,0 +1,69 @@
+BLItemNo,ElementId,LdrawId,PartName,BLColorId,LDrawColorId,ColorName,ColorCategory,Qty,Weight
+11212,6174917,11212,Plate 3 x 3,11,0,Black,Solid Colors,4,1.25
+15573,6092585,15573,"Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper)",11,0,Black,Solid Colors,4,0.3
+15573,6066097,15573,"Plate, Modified 1 x 2 with 1 Stud with Groove and Bottom Stud Holder (Jumper)",86,71,Light Bluish Gray,Solid Colors,2,0.3
+24246,6256435,24246,"Tile, Round 1 x 1 Half Circle Extended",11,0,Black,Solid Colors,1,0.1
+2431,243126,2431,Tile 1 x 4,11,0,Black,Solid Colors,6,0.54
+2431,6289455,2431,Tile 1 x 4,12,47,Trans-Clear,Transparent Colors,1,0.54
+2431,4211356,2431,Tile 1 x 4,86,71,Light Bluish Gray,Solid Colors,6,0.54
+2456,4211795,2456,Brick 2 x 6,86,71,Light Bluish Gray,Solid Colors,188,3.74
+25269,6172383,25269,"Tile, Round 1 x 1 Quarter",11,0,Black,Solid Colors,5,0.1
+25269,6170390,25269,"Tile, Round 1 x 1 Quarter",5,4,Red,Solid Colors,2,0.1
+26603,6171894,26603,Tile 2 x 3,86,71,Light Bluish Gray,Solid Colors,12,0.68
+27925,6163990,27925,"Tile, Round Corner 2 x 2 Macaroni",86,71,Light Bluish Gray,Solid Colors,4,0.3
+3001,300126,3001,Brick 2 x 4,11,0,Black,Solid Colors,2,2.32
+3002,4211386,3002,Brick 2 x 3,86,71,Light Bluish Gray,Solid Colors,8,1.92
+3002,300226,3002,Brick 2 x 3,11,0,Black,Solid Colors,2,1.92
+3003,4211387,3003,Brick 2 x 2,86,71,Light Bluish Gray,Solid Colors,18,1.35
+3004,4211388,3004,Brick 1 x 2,86,71,Light Bluish Gray,Solid Colors,6,0.8
+3005,6240548,3005,Brick 1 x 1,14,33,Trans-Dark Blue,Transparent Colors,15,0.44
+3007,6037399,3007,Brick 2 x 8,86,71,Light Bluish Gray,Solid Colors,40,4.75
+3008,4211392,3008,Brick 1 x 8,86,71,Light Bluish Gray,Solid Colors,6,3.21
+3009,300926,3009,Brick 1 x 6,11,0,Black,Solid Colors,2,2.42
+3009,4211393,3009,Brick 1 x 6,86,71,Light Bluish Gray,Solid Colors,18,2.42
+3010,301026,3010,Brick 1 x 4,11,0,Black,Solid Colors,3,1.64
+3010,4211394,3010,Brick 1 x 4,86,71,Light Bluish Gray,Solid Colors,2,1.64
+3024,4211399,3024,Plate 1 x 1,86,71,Light Bluish Gray,Solid Colors,1,0.2
+3034,4211406,3034,Plate 2 x 8,86,71,Light Bluish Gray,Solid Colors,7,2.27
+3035,4211407,3035,Plate 4 x 8,86,71,Light Bluish Gray,Solid Colors,1,4.7
+30357,4645412,30357,"Plate, Round Corner 3 x 3",86,71,Light Bluish Gray,Solid Colors,120,1.18
+3036,4211408,3036,Plate 6 x 8,86,71,Light Bluish Gray,Solid Colors,6,6.4
+3039,4211410,3039,Slope 45 2 x 2,86,71,Light Bluish Gray,Solid Colors,4,1.15
+3062b,306202,3062b,"Brick, Round 1 x 1 Open Stud",9,7,Light Gray,Solid Colors,2,0.28
+3062b,306224,3062b,"Brick, Round 1 x 1 Open Stud",3,14,Yellow,Solid Colors,10,0.28
+3062b,4211090,3062b,"Brick, Round 1 x 1 Open Stud",85,72,Dark Bluish Gray,Solid Colors,5,0.28
+3068b,4211413,3068b,Tile 2 x 2 with Groove,86,71,Light Bluish Gray,Solid Colors,5,0.48
+3069b,6251294,3069b,Tile 1 x 2 with Groove,12,47,Trans-Clear,Transparent Colors,5,0.26
+3069b,4211414,3069b,Tile 1 x 2 with Groove,86,71,Light Bluish Gray,Solid Colors,15,0.26
+3070b,6254254,3070b,Tile 1 x 1 with Groove,12,47,Trans-Clear,Transparent Colors,1,0.146
+3070b,307026,3070b,Tile 1 x 1 with Groove,11,0,Black,Solid Colors,1,0.16
+3070b,4211415,3070b,Tile 1 x 1 with Groove,86,71,Light Bluish Gray,Solid Colors,3,0.16
+34103,6211969,34103,"Plate, Modified 1 x 3 with 2 Studs (Double Jumper)",86,71,Light Bluish Gray,Solid Colors,4,0.43
+3622,4211428,3622,Brick 1 x 3,86,71,Light Bluish Gray,Solid Colors,3,1.24
+3622,362226,3622,Brick 1 x 3,11,0,Black,Solid Colors,1,1.24
+3811,6097276,3811,Baseplate 32 x 32,36,10,Bright Green,Solid Colors,1,107.0
+3832,4211462,3832,Plate 2 x 10,86,71,Light Bluish Gray,Solid Colors,2,2.91
+3941,4249139,3941,"Brick, Round 2 x 2 with Axle Hole",85,72,Dark Bluish Gray,Solid Colors,5,1.2
+3960,,3960,Dish 4 x 4 Inverted (Radar) with Solid Stud,10,8,Dark Gray,Solid Colors,1,1.33
+4162,4211481,4162,Tile 1 x 8,86,71,Light Bluish Gray,Solid Colors,6,1.06
+43898,4210865,43898,Dish 3 x 3 Inverted (Radar),85,72,Dark Bluish Gray,Solid Colors,3,0.86
+4073,614126,4073,"Plate, Round 1 x 1",11,0,Black,Solid Colors,2,0.12
+4073,614121,4073,"Plate, Round 1 x 1",5,4,Red,Solid Colors,2,0.12
+4073,614124,4073,"Plate, Round 1 x 1",3,14,Yellow,Solid Colors,2,0.12
+4073,4210633,4073,"Plate, Round 1 x 1",85,72,Dark Bluish Gray,Solid Colors,3,0.12
+6222,4114075,6222,"Brick, Round 4 x 4 with 4 Side Pin Holes and Center Axle Hole",10,8,Dark Gray,Solid Colors,2,3.57
+63864,4558170,63864,Tile 1 x 3,11,0,Black,Solid Colors,4,0.39
+63864,4558169,63864,Tile 1 x 3,86,71,Light Bluish Gray,Solid Colors,4,0.39
+6636,4211549,6636,Tile 1 x 6,86,71,Light Bluish Gray,Solid Colors,13,0.83
+6636,663626,6636,Tile 1 x 6,11,0,Black,Solid Colors,2,0.83
+67095,6433729,67095,"Tile, Round 3 x 3",85,72,Dark Bluish Gray,Solid Colors,2,0
+69729,6318584,69729,Tile 2 x 6,86,71,Light Bluish Gray,Solid Colors,7,0
+85080,4567448,85080,"Brick, Round Corner 2 x 2 Macaroni with Stud Notch and Reinforced Underside",86,71,Light Bluish Gray,Solid Colors,40,0.94
+87079,4560183,87079,Tile 2 x 4,86,71,Light Bluish Gray,Solid Colors,6,0.9
+87079,4560182,87079,Tile 2 x 4,11,0,Black,Solid Colors,3,0.9
+87580,6126083,87580,"Plate, Modified 2 x 2 with Groove and 1 Stud in Center (Jumper)",85,72,Dark Bluish Gray,Solid Colors,3,0.5
+92593,4599499,92593,"Plate, Modified 1 x 4 with 2 Studs without Groove",11,0,Black,Solid Colors,2,0.61
+92593,4599498,92593,"Plate, Modified 1 x 4 with 2 Studs without Groove",86,71,Light Bluish Gray,Solid Colors,18,0.61
+,,,,,,,,,
+Total qty,Total Weight,,,,,,,,
+684,1489.996,,,,,,,,
